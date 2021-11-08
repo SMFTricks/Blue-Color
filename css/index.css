@@ -3692,7 +3692,7 @@ tr.top_board td
 #search_text
 {
     width: 183px; 
-	height: 15px;
+	height: 33px;
 	margin: 0; 	
 	padding: 10px;
 	background: transparent url(../images/theme/searchinput.png) no-repeat top left;
